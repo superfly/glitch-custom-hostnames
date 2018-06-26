@@ -1,0 +1,30 @@
+{
+  "name": "glitch-custom-hostname",
+  "version": "1.0.0",
+  "description": "Host a Glitch app with a custom domain",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx fly server",
+    "test": "npx fly test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superfly/glitch-custom-hostnames.git"
+  },
+  "keywords": [
+    "Glitch",
+    "Domain",
+    "Hostname",
+    "Custom",
+    "DNS"
+  ],
+  "author": "Kurt Mackey",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/superfly/glitch-custom-hostnames/issues"
+  },
+  "homepage": "https://github.com/superfly/glitch-custom-hostnames#readme",
+  "dependencies": {
+    "@fly/fly": "^0.33.4"
+  }
+}
