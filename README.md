@@ -4,7 +4,7 @@ This is a Fly Edge Application that lets you deliver your Glitch apps with custo
 
 ## Local development
 
-You can run it locally to see what it does. First clone the repository. Then edit [index.js#L4] with your Glitch Application URL (it uses fly-example by default).
+You can run it locally to see what it does. First clone the repository. Then edit (index.js#L4) with your Glitch Application URL (it uses fly-example by default).
 
 ```bash
 git clone https://github.com/superfly/glitch-custom-hostnames.git
